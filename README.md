@@ -1,2 +1,8 @@
-# youtube-watch-time-bot
-youtube watch time bot
+# youtube watch time bot
+[YouTube watch time bot](https://thewatchlab.net/) is a tool that allows you to see how much time your viewers spend watching your videos. It is an important metric to measure the engagement and retention of your audience, as well as the performance of your channel. Watch time viewer can help you optimize your video content, improve your ranking in YouTube search and recommendations, and increase your revenue potential.
+
+Watch time viewer shows you the total amount of minutes that your viewers watched your videos in a given period of time. You can also see the average view duration, which is the average amount of time that a viewer watched a video. Watch time viewer also breaks down the watch time by geography, device type, traffic source, and playback location. You can use these insights to understand where your viewers come from, how they find your videos, and where they watch them.
+
+Watch time viewer is available in YouTube Studio, under the Analytics tab. You can access it by clicking on the Watch time card on the Overview page, or by selecting Watch time from the left menu. You can also filter and compare the watch time data by different dimensions and metrics, such as video, date range, subscription status, and more.
+
+Watch time viewer is a powerful tool that can help you grow your YouTube channel and reach more viewers. By analyzing the watch time data, you can identify which videos are most engaging and appealing to your audience, and which ones need improvement. You can also use watch time viewer to test different strategies and formats for your videos, such as length, title, thumbnail, description, tags, etc. Watch time viewer can help you create more effective and relevant video content that keeps your viewers watching longer and coming back for more.
